@@ -92,7 +92,7 @@
   <a href="https://twitter.com/NWSMedford">@NWSMedford</a>
   <p>Twitter account for the local NWS office.</p>
 
-  <h3>Jackson County Fire District 3<h3>
+  <h3>Jackson County Fire District 3</h3>
   <a href="https://www.facebook.com/JCoFD3">Fire District 3 Facebook page</a>
   <p>They've been posting information and pictures.</p>
 

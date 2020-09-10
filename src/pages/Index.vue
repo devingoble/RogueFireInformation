@@ -20,6 +20,10 @@
   <p>The official Facebook page of the Jackson County Emergency Management team.</p>
   <a href="https://twitter.com/JacksonCountyOR">@JacksonCountyOR</a>
   <p>Official tweets from Jackson County</p>
+  <a href="https://www.facebook.com/JacksonCountySheriff/">Jackson County Sheriff</a>
+  <p>Official JCSO Facebook page</p>
+
+  <h3>Coming soon: links to local city pages</h3>
 
   <h3>Oregon Department of Forestry Southwest Oregon District</h3>
   <a href="https://www.facebook.com/ODFSouthwest">ODF Facebook</a>

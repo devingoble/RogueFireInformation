@@ -1,7 +1,7 @@
 <template>
   <Layout>
 
-  <h1>Unofficial Fire Information</h1>
+  <h1>Fire Information for the Rogue Valley</h1>
 
   <h2>Public Agencies</h2>
   <h3>Jackson County</h3>

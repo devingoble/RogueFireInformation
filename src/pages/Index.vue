@@ -16,7 +16,9 @@
   <a href="http://arcg.is/14vDXC">I am safe</a>
   <p>Use this form if you have evacuated and have been unable to let family or friends know. Law enforcement is using this information to reunite people.</p>
   <a href="https://www.facebook.com/jacksoncountyoregonem">Jackson County Emergency Management</a>
-  
+  <p>The official Facebook page of the Jackson County Emergency Management team.</p>
+  <a href="https://twitter.com/JacksonCountyOR">@JacksonCountyOR</a>
+  <p>Official tweets from Jackson County</p>
   </Layout>
 </template>
 

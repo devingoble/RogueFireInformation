@@ -23,7 +23,45 @@
   <a href="https://www.facebook.com/JacksonCountySheriff/">Jackson County Sheriff</a>
   <p>Official JCSO Facebook page</p>
 
-  <h3>Coming soon: links to local city pages</h3>
+  <h3>City of Medford</h3>
+  <a href="http://www.ci.medford.or.us/index.asp">City of Medford website</a>
+  <p> Not much direct mention of the fires right now.</p>
+  <a href="http://www.ci.medford.or.us/News.asp?NewsID=7836">Emergency Parking Shelter Information</a>
+  <p>There are a few locations that are offering their space for parking and shelter.</p>
+  <a href="https://www.facebook.com/CityofMedford/">City of Medford official Facebook page</a>
+  <p>They've posted a few helpful resources.</p>
+  <a href="https://www.facebook.com/MedfordFireDepartment">Medford Fire Department Facebook page</a>
+  <p>They're keeping up with news and posting pictures.</p>
+
+  <h3>Medford Water Commission</h3>
+  <a href="http://medfordwater.org/">Medford Water Commission website</a>
+  <p>They've posted some news items about water usage and safety.</p>
+
+  <h3>City of Ashland</h3>
+  <a href="http://www.ashland.or.us/index.asp">City of Ashland website</a>
+  <p>They've got a number of news items and resoures available.</p>
+  <a href="https://twitter.com/cityofashland">@cityofashland</a>
+  <p>Official twitter account. They post all of their news items.</p>
+
+  <h3>City of Talent</h3>
+  <a href="http://www.cityoftalent.org/index.asp">City of Talent website</a>
+  <p>There is limited information posted. Bear with them right now.</p>
+
+  <h3>City of Phoneix</h3>
+  <a href="https://www.phoenixoregon.gov/">City of Phoneix website</a>
+  <p>They have started posting some critical information as needed in their news section.</p>
+
+  <h3>City of Eagle Point</h3>
+  <a href="http://www.cityofeaglepoint.org/">City of Eagle Point website</a>
+  <p>They've posted a few news items that apply to their area.</p>
+
+  <h3>City of Central Point</h3>
+  <a href="https://www.centralpointoregon.gov/">City of Central Point website</a>
+  <p>They haven't posted anything obvious.</p>
+  <a href="https://www.facebook.com/CityofCentralPoint/">Official Facebook page</a>
+  <p>They post some relevant local news items.</p>
+  <a href="https://www.facebook.com/CentralPointPD">Central Point Police Department official Facebook page</a>
+  <p>They're posting relevant local news items.</p>
 
   <h3>Oregon Department of Forestry Southwest Oregon District</h3>
   <a href="https://www.facebook.com/ODFSouthwest">ODF Facebook</a>
@@ -52,7 +90,15 @@
   <a href="https://www.weather.gov/mfr/">NWS Medford page</a>
   <p>The NWS page for the local area</p>
   <a href="https://twitter.com/NWSMedford">@NWSMedford</a>
-  <p>Twitter account for the local NWS office.
+  <p>Twitter account for the local NWS office.</p>
+
+  <h3>Jackson County Fire District 3<h3>
+  <a href="https://www.facebook.com/JCoFD3">Fire District 3 Facebook page</a>
+  <p>They've been posting information and pictures.</p>
+
+  <h2>Interagency</h2>
+  <a href="https://www.facebook.com/AlmedaandObenchainFires/">Interagency Facebook Page</a>
+  <p>This looks like an interagency site to provide information about the local fires.</p>
 
   <h2>News Stations</h2>
   <h3>KTVL</h3>
@@ -97,6 +143,8 @@
   <p>They have been tirelessly posting huge amounts of content aggregated from a number of different resources and scanner traffic.</p>
   <a href="https://www.facebook.com/RogueWeatherNow/">Rogue Weather</a>
   <p>They've got relationships with firefighting agencies, and are able to get some pretty good information.</p>
+  <a href="https://www.facebook.com/Jacoscanner">Rogue Valley Scanner</a>
+  <p>This facebook page is posting relevant incident alerts. It appears to be an unaffiliated volunteer effort.</p>
 
   <h2>Miscellaneous Tools</h2>
   <a href="https://flightaware.com/">FlighAware</a>

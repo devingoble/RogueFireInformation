@@ -12,9 +12,7 @@
         <p class="font-bold">Featured!</p>
         <a href="https://roguevalley.recovers.org/">Rogue Valley Preparedness and Recovery Hub</a>
         <p>This is a fantastic resource with tons of links to news and information, along with relief resources.</p>  
-      </div>
-
-      
+      </div>      
 
       <h2 id="JacksonCounty">Jackson County</h2>
       <a href="https://jacksoncountyor.org/emergency/News/News-Information">News & Information</a>

@@ -1,6 +1,6 @@
 <template>
   <div class="flex justify-center">
-      <div class="flex flex-col md:flex-row flex-shrink flex-wrap overflow-hidden md:p-4 md:m-2">
+      <div class="flex flex-col md:flex-row flex-shrink flex-wrap md:p-4 md:m-2">
         <div class="flex flex-row flex-grow md:sidebar mx-2 mt-2 md:m-4">
         <nav
           class="flex-grow md:fixed md:sidebar border-solid border bg-white border-global-border"
@@ -71,7 +71,6 @@ body {
   flex: 1 1 400px;
   max-width: 1000px;
   min-width: 300px;
-  min-height: 300px;
 }
 
 @responsive {

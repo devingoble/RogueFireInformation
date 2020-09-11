@@ -7,6 +7,14 @@
       <p>I've been frustrated by how difficult it is to find updated information on the South Obenchain and Almeda fires since there are so many options, and the situation is still developing. This is my attempt to aggregate some sources that I've found helpful. This site isn't endorsed by any agency, or any of the organizations who are linked here. This is essentially a list of my own bookmarks that you may find useful.</p>
       <br />
       <p>If you see an issue, or want to suggest a resource, feel free to send an email to rfisuggestions@outlook.com.</p>
+      <br />
+      <div class="bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3" role="alert">
+        <p class="font-bold">Featured!</p>
+        <a href="https://roguevalley.recovers.org/">Rogue Valley Preparedness and Recovery Hub</a>
+        <p>This is a fantastic resource with tons of links to news and information, along with relief resources.</p>  
+      </div>
+
+      
 
       <h2 id="JacksonCounty">Jackson County</h2>
       <a href="https://jacksoncountyor.org/emergency/News/News-Information">News & Information</a>

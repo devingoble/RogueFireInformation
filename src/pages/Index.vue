@@ -192,6 +192,12 @@
       <p>This facebook page is posting relevant incident alerts. It appears to be an unaffiliated volunteer effort.</p>
       <a href="https://www.facebook.com/MissingLost-FIRE-PETS-Southern-Oregon-102545981596394/">Missing Pets</a>
       <p>This is a community Facebook page that has been set up to help reunite pets with their owners.</p>
+      <a href="https://roguevalley.recovers.org/">Rogue Valley Preparedness and Recovery Hub</a>
+      <p>This is a great resource with links to news and information, along with relief resources.</p>
+      <a href="https://twitter.com/hashtag/AlmedaFire?f=live">#AlmedaFire</a>
+      <p>A lot of information can be found by following the #AlmedaFire hashtag on Twitter</p>
+      <a href="https://twitter.com/hashtag/ObenchainFire?f=live">#ObenchainFire</a>
+      <p>A lot of information can be found by following the #ObenchainFire hashtag on Twitter</p>
 
       <h2 id="MappingTools">Mapping Tools</h2>
       <a href="https://flightaware.com/">FlightAware</a>

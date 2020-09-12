@@ -8,11 +8,17 @@
       <br />
       <p>If you see an issue, or want to suggest a resource, feel free to send an email to rfisuggestions@outlook.com.</p>
       <br />
-      <div class="bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py-3" role="alert">
-        <p class="font-bold">Featured!</p>
-        <a href="https://roguevalley.recovers.org/">Rogue Valley Preparedness and Recovery Hub</a>
-        <p>This is a fantastic resource with tons of links to news and information, along with relief resources.</p>  
-      </div>      
+      <div class="bg-blue-100 border-t-4 border-blue-600 rounded-b text-blue-900 px-4 py-3 shadow-md" role="alert">
+        <div class="flex">
+          <div class="py-1"><svg class="fill-current h-6 w-6 text-blue-600 mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2.93 17.07A10 10 0 1 1 17.07 2.93 10 10 0 0 1 2.93 17.07zm12.73-1.41A8 8 0 1 0 4.34 4.34a8 8 0 0 0 11.32 11.32zM9 11V9h2v6H9v-4zm0-6h2v2H9V5z"/></svg></div>
+          <div>
+            <p class="font-bold">What's New</p>
+            <ul class="list-disc">
+              <li>Added some Twitter hashtags to follow in the <a href="#CommunityResources">Community Resources</a> section</li>
+            </ul>
+          </div>
+        </div>
+      </div>   
 
       <h2 id="JacksonCounty">Jackson County</h2>
       <a href="https://jacksoncountyor.org/emergency/News/News-Information">News & Information</a>

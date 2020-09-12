@@ -6,7 +6,7 @@
       <h2>About this page</h2>
       <p>I've been frustrated by how difficult it is to find updated information on the South Obenchain and Almeda fires since there are so many options, and the situation is still developing. This is my attempt to aggregate some sources that I've found helpful. This site isn't endorsed by any agency, or any of the organizations who are linked here. This is essentially a list of my own bookmarks that you may find useful.</p>
       <br />
-      <p>If you see an issue, or want to suggest a resource, feel free to send an email to rfisuggestions@outlook.com.</p>
+      <p>If you see an issue, or want to suggest a resource, feel free to send an email to rfisuggestions@outlook.com or tweet @roguefireinfor1.</p>
       <br />
       <div class="bg-blue-100 border-t-4 border-blue-600 rounded-b text-blue-900 px-4 py-3 shadow-md" role="alert">
         <div class="flex">
@@ -14,6 +14,8 @@
           <div>
             <p class="font-bold">What's New</p>
             <ul class="list-disc">
+              <li>KTVL has a great page about where to get help and how to volunteer. It's found in the <a href="#NewsStations">News and Weather</a> section.</li>
+              <li>I stumbled a cross a Facebook page for the Obenchain Fire. It's now linked in the <a href="#CommunityResources">Community Resources</a> section</li>
               <li>Added some Twitter hashtags to follow in the <a href="#CommunityResources">Community Resources</a> section</li>
             </ul>
           </div>
@@ -135,6 +137,8 @@
       <h3 id="Interagency">Interagency</h3>
       <a href="https://www.facebook.com/AlmedaandObenchainFires/">Interagency Facebook Page</a>
       <p>This looks like an interagency page to provide information about the local fires.</p>
+      <a href="https://www.facebook.com/SouthObenchainFire/">South Obenchain Fire Facebook page</a>
+      <p>There's been daily updates from the incident commander.</p>
 
       <h2 id="NewsStations">News and Weather</h2>
       <h3 id="NWS">National Weather Service</h3>
@@ -161,6 +165,8 @@
       <p>KTVL Twitter account. They've been good about posting updated information, including weather maps showing smoke.</p>
       <a href="https://www.facebook.com/KTVLNews10/">KTVL Facebook</a>
       <p>Official Facebook page</p>
+      <a href="https://ktvl.com/station/news-10-first-alert-fire-recovery/fire-resources-want-to-help-need-help">Relief Resources</a>
+      <p>KTVL has compiled a great list of reasources for evacuation, shelter, food, clothing, and financial help. They've also got organizations you can contact if you want to help.</p>
 
       <h3 id="KDRV">KDRV</h3>
       <a href="http://kdrv.com">KDRV Website</a>
@@ -225,6 +231,14 @@
       <p>This link gets you an overview of our area.</p>
       <a href="http://oregonsmoke.blogspot.com/">Oregon Smoke</a>
       <p>This is an interagency site that tracks smoke conditions and offers forecasts based on weather.</p>
+
+      <h2 id="FAQ">Frequently Asked Questions</h2>
+      <p class="italic font-bold">Who are you?</p>
+      <p>Just a citizen of the community. I'm not in it for recognition.</p>
+      <p class="italic font-bold">Can you list my organization?</p>
+      <p>It depends. I'm primarily trying to help folks find aggregate sources. If I tried to collect every aid organization, I'd never be able to finish. I've tried to provide links to lists being maintained by others. If you know of such a list that I don't have, feel free to send an email to rfisuggestions@outlook.com or tweet @roguefireinfor1.</p>
+      <p class="italic font-bold">What if I find a problem with the site, a link goes to the wrong place, or I have a suggestion or comment?</p>
+      <p>Definitely send an email to rfisuggestions@outlook.com or tweet @roguefireinfor1</p>
     </div>
   </Layout>
 </template>

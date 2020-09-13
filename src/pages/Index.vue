@@ -8,7 +8,7 @@
       <br />
       <p>If you see an issue, or want to suggest a resource, feel free to send an email to rfisuggestions@outlook.com or tweet @roguefireinfor1.</p>
       <br />
-      <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.roguefireinformation.com&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="450" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+      <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.roguefireinformation.com&width=450&layout=standard&action=like&size=small&share=true&height=35&appId" width="100%" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
       <a class="bg-blue-500 hover:bg-blue-700 text-white visited:text-white font-bold py-2 px-4 rounded" href="https://twitter.com/intent/tweet?text=Check+out+roguefireinformation.com+for+great+resources+for+information+about+the+%23AlmedaFire+and+%23ObenchainFire!">Tweet</a>
       <br />
       <div class="mt-4 bg-blue-100 border-t-4 border-blue-600 rounded-b text-blue-900 px-4 py-3 shadow-md" role="alert">

@@ -412,6 +412,10 @@
               <a href="https://twitter.com/hashtag/ObenchainFire?f=live">#ObenchainFire</a>
               <p>A lot of information can be found by following the #ObenchainFire hashtag on Twitter</p>
             </div>
+            <div class="link-card">
+                <a href="https://twitter.com/hashtag/SouthernOregonStrong">#SouthernOregonStrong</a>
+                <p>Follow this twitter hashtag for information about various community topics, including relief programs.</p>
+            </div>            
         </div>
     </div>
 

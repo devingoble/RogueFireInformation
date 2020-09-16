@@ -69,6 +69,7 @@
       </div>
 
       <div class="mt-4">
+        <h2>Search</h2>
         <input
           class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
           type="search"

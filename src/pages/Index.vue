@@ -44,6 +44,7 @@
           <div>
             <p class="font-bold">What's New</p>
             <ul class="list-disc">
+              <li>The County has posted a great resource for those needing help with recovery. Check it out in the <a href="#JacksonCounty">Jackson County</a> section.</li>
               <li>We've got search now! It's nothing super advanced, it just filters the links using a simple text match. Give it a try below.</li>
               <li>
                 KTVL has a great page about where to get help and how to volunteer. It's found in the

@@ -1,70 +1,78 @@
 <template>
   <div id="content">
-    <div class="card-parent">
-      <h2 id="FEMA">FEMA</h2>
-      <div class="link-card">
-        <a href="https://www.fema.gov/disaster/4562">FEMA page for our area</a>
-        <p>As financial relief opens up from FEMA, they will post it on this page.</p>
+    <div class="category-parent">
+      <div class="card-parent">
+        <h2 id="FEMA">FEMA</h2>
+        <div class="link-card">
+          <a href="https://www.fema.gov/disaster/4562">FEMA page for our area</a>
+          <p>As financial relief opens up from FEMA, they will post it on this page.</p>
+        </div>
       </div>
     </div>
-    <div class="card-parent">
-      <h2 id="JacksonCounty">Jackson County</h2>
-      <div class="link-card">
-        <a href="https://jacksoncountyor.org/emergency/News/Wildfires-Smoke/category/help-for-wildfire-victims">Shelter Information and Community Resources</a>
-        <p>The County has really stepped up with this one. They're collecting a load of information on relief resources, shelters, food, housing, pets, voting, medication, and utilities. Check it out!</p>
-      </div>
-      <div class="link-card">
-        <a href="https://jacksoncountyor.org/emergency/News/News-Information">News & Information</a>
-        <p>This is where the County posts their official news for the fires, things you may need to know, and evacuation areas.</p>
-      </div>
-      <div class="link-card">
-        <a href="https://jacksoncountyor.org/emergency/News/Wildfires-Smoke">Wildfire and Smoke</a>
-        <p>Here is the County landing page for various links related to the wildfires.</p>
-      </div>
-      <p>Below are some specific links provided by the County for quick reference</p>
-      <div class="link-card">
-        <a
-          href="https://jcgis.maps.arcgis.com/apps/webappviewer/index.html?id=3caa39804db54631a61007180d5ef415"
-        >Live Evacuation Map</a>
-        <p>The live evacuation maps shows current areas that are under evacuation orders. Please note that this map does take a little time to update after official notice has been given, so don't rely on it being real-time. See the News & Information link above for text descriptions of the evacuation zones.</p>
-      </div>
-      <div class="link-card">
-        <a href="http://arcg.is/014bzS">Missing Family or Friends</a>
-        <p>Fill out this form if you have been unable to contact family or friends. Law enforcement is using this information to know how to prioritize efforts.</p>
-      </div>
-      <div class="link-card">
-        <a href="http://arcg.is/14vDXC">I am safe</a>
-        <p>Use this form if you have evacuated and have been unable to let family or friends know. Law enforcement is using this information to reunite people.</p>
-      </div>
-      <div class="link-card">
-        <a
-          href="https://jacksoncountyor.org/emergency/News/News-Information/citizen-alert-sign-up-today-1"
-        >Citizen Alert</a>
-        <p>The County provides a way to sign up for alerts about important information such as evacuations that apply to you.</p>
-      </div>
-      <div class="link-card">
-        <a href="https://www.facebook.com/jacksoncountyoregonem">Jackson County Emergency Management</a>
-        <p>The official Facebook page of the Jackson County Emergency Management team.</p>
-      </div>
-      <div class="link-card">
-        <a href="https://twitter.com/JacksonCountyOR">@JacksonCountyOR</a>
-        <p>Official tweets from Jackson County</p>
-      </div>
-      <div class="link-card">
-        <a href="https://www.facebook.com/JacksonCountySheriff/">Jackson County Sheriff</a>
-        <p>Official JCSO Facebook page</p>
-      </div>
-      <div class="link-card">
-        <a
-          href="https://jacksoncountyor.org/emergency/News/News-Information/shelter-information-and-community-resources"
-        >Shelter Information</a>
-        <p>Here is a list of organizations that are acting as emergency shelters, are offering free meals, or other relief services including mental health support. Also check out this page if you are interested in donating to relief efforts.</p>
-      </div>
-      <div class="link-card">
-        <a
-          href="https://jacksoncountyor.org/assessor/General/News-Information/almeda-south-obenchain-greenway-mm-24-et-al-fires-disaster-tax-relief-1"
-        >Property tax proration information</a>
-        <p>The County assessor has set up a program to allow certain property owners to apply for proration of property taxes due to damage.</p>
+    <div class="category-parent">
+      <div class="card-parent">
+        <h2 id="JacksonCounty">Jackson County</h2>
+        <div class="link-card">
+          <a
+            href="https://jacksoncountyor.org/emergency/News/Wildfires-Smoke/category/help-for-wildfire-victims"
+          >Shelter Information and Community Resources</a>
+          <p>The County has really stepped up with this one. They're collecting a load of information on relief resources, shelters, food, housing, pets, voting, medication, and utilities. Check it out!</p>
+        </div>
+        <div class="link-card">
+          <a href="https://jacksoncountyor.org/emergency/News/News-Information">News & Information</a>
+          <p>This is where the County posts their official news for the fires, things you may need to know, and evacuation areas.</p>
+        </div>
+        <div class="link-card">
+          <a href="https://jacksoncountyor.org/emergency/News/Wildfires-Smoke">Wildfire and Smoke</a>
+          <p>Here is the County landing page for various links related to the wildfires.</p>
+        </div>
+        <p>Below are some specific links provided by the County for quick reference</p>
+        <div class="link-card">
+          <a
+            href="https://jcgis.maps.arcgis.com/apps/webappviewer/index.html?id=3caa39804db54631a61007180d5ef415"
+          >Live Evacuation Map</a>
+          <p>The live evacuation maps shows current areas that are under evacuation orders. Please note that this map does take a little time to update after official notice has been given, so don't rely on it being real-time. See the News & Information link above for text descriptions of the evacuation zones.</p>
+        </div>
+        <div class="link-card">
+          <a href="http://arcg.is/014bzS">Missing Family or Friends</a>
+          <p>Fill out this form if you have been unable to contact family or friends. Law enforcement is using this information to know how to prioritize efforts.</p>
+        </div>
+        <div class="link-card">
+          <a href="http://arcg.is/14vDXC">I am safe</a>
+          <p>Use this form if you have evacuated and have been unable to let family or friends know. Law enforcement is using this information to reunite people.</p>
+        </div>
+        <div class="link-card">
+          <a
+            href="https://jacksoncountyor.org/emergency/News/News-Information/citizen-alert-sign-up-today-1"
+          >Citizen Alert</a>
+          <p>The County provides a way to sign up for alerts about important information such as evacuations that apply to you.</p>
+        </div>
+        <div class="link-card">
+          <a
+            href="https://www.facebook.com/jacksoncountyoregonem"
+          >Jackson County Emergency Management</a>
+          <p>The official Facebook page of the Jackson County Emergency Management team.</p>
+        </div>
+        <div class="link-card">
+          <a href="https://twitter.com/JacksonCountyOR">@JacksonCountyOR</a>
+          <p>Official tweets from Jackson County</p>
+        </div>
+        <div class="link-card">
+          <a href="https://www.facebook.com/JacksonCountySheriff/">Jackson County Sheriff</a>
+          <p>Official JCSO Facebook page</p>
+        </div>
+        <div class="link-card">
+          <a
+            href="https://jacksoncountyor.org/emergency/News/News-Information/shelter-information-and-community-resources"
+          >Shelter Information</a>
+          <p>Here is a list of organizations that are acting as emergency shelters, are offering free meals, or other relief services including mental health support. Also check out this page if you are interested in donating to relief efforts.</p>
+        </div>
+        <div class="link-card">
+          <a
+            href="https://jacksoncountyor.org/assessor/General/News-Information/almeda-south-obenchain-greenway-mm-24-et-al-fires-disaster-tax-relief-1"
+          >Property tax proration information</a>
+          <p>The County assessor has set up a program to allow certain property owners to apply for proration of property taxes due to damage.</p>
+        </div>
       </div>
     </div>
 
